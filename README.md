@@ -5,8 +5,19 @@ Ecommerce app made using MERN Stack
 <h3>For Server</h3>
 <p>Create .env file with following values</p>
 <p>DEV_MODE=dev
-JWT_SECRET=khgggggggggggggggggluhviugiul4328
-MONGO_URL=mongodb+srv://raj655:raj655@cluster0.exwfo46.mongodb.net/?retryWrites=true&w=majority  
-BRAINTREE_MERCHANT_ID=btdn7s7y53bgkq3j
-BRAINTREE_PUBLIC_KEY=5g4255m2npps26bb
-BRAINTREE_PRIVATE_KEY=294cb1a4d35cda85da20ea1e5b9820dd</p>
+JWT_SECRET=YOUR KEY
+MONGO_URL="YOUR KEY"
+BRAINTREE_MERCHANT_ID=YOUR KEY
+BRAINTREE_PUBLIC_KEY=YOUR KEY
+BRAINTREE_PRIVATE_KEY=YOUR KEY</p>
+<h4>In root dir run npm install</h4>
+</br>
+</br>
+<h3>For Client</h3>
+<p>cd to client dir and do npm install</p>
+<h2>How to run the app</h2>
+<p>server = node . in root dir
+  client = cd client and npm start
+</p>
+<h2>Note !!!!!</h2>
+<p>By default there is are products added u need to add it by loging as Admin user for that you have to create an account and manually set the role to 1(by default its set to 0 which represent normal users) in mongoDB</p>
