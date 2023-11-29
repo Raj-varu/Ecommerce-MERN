@@ -20,3 +20,5 @@ BRAINTREE_PRIVATE_KEY=YOUR KEY</p>
 </p>
 <h2>Note !!!!!</h2>
 <p>By default there are No products added u need to add it by logging as Admin user for that you have to create an account and manually set the role to 1(by default its set to 0 which represent normal users) in mongoDB</p>
+
+<p>I have not added client and server side validation to make codebase small</p>
