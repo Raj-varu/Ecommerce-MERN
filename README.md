@@ -4,11 +4,11 @@ Ecommerce app made using MERN Stack
 <h1>How to Run!!!</h1>
 <h3>For Server</h3>
 <p>Create .env file with following values</p>
-<p>DEV_MODE=dev
-JWT_SECRET=YOUR KEY
-MONGO_URL="YOUR KEY"
-BRAINTREE_MERCHANT_ID=YOUR KEY
-BRAINTREE_PUBLIC_KEY=YOUR KEY
+<p>DEV_MODE=dev <br>
+JWT_SECRET=YOUR KEY <br>
+MONGO_URL="YOUR KEY" <br>
+BRAINTREE_MERCHANT_ID=YOUR KEY<br>
+BRAINTREE_PUBLIC_KEY=YOUR KEY <br>
 BRAINTREE_PRIVATE_KEY=YOUR KEY</p>
 <h4>In root dir run npm install</h4>
 </br>
